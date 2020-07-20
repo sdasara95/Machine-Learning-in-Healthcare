@@ -1,0 +1,13 @@
+# The following packages are required for this project.
+# Run the following using this command:
+# conda install --file requirements.txt
+jupyter
+spyder
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow-gpu
+keras-gpu
